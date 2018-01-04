@@ -7,8 +7,8 @@ The paper here published in 2012 only include 4 project:
 - Espresso: a distributed data store that supports flexible schemas and secondary indexing
 - Kafka: a scalable and efficient messaging system for collecting various user activity events and log data
 
-Prjoects founded later than the paper or omitted by the paper also are proposed:
-- Helix: a framework for cluster management
-- Dgraph: grpah database for Social network
-- Ambry: distributed object storage 
-- Pinot: a datawarehouse  
+Prjoects founded later than the paper or omitted by the paper are proposed too:
+- Helix: a framework for cluster management sutable for various distributed system such as distributed data store,distributed message queue
+- Dgraph: high available,sharded grpah database scales to multi data center and supports complex distributed queries 
+- Ambry:  distributed object storage optimizes for both small immutable objects (50K -100K) and large objects
+- Pinot:  a realtime distributed OLAP datastore
