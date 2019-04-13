@@ -1,1 +1,4 @@
-[Ambry](https://github.com/linkedin/ambry/wiki) is linkedin's object store.
+### [Ambry](https://github.com/linkedin/ambry/wiki) 
+
+ Ambry is linkedin's object store.
+
